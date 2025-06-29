@@ -6,6 +6,7 @@
 Ce dépôt contient une collection de projets personnels et académiques réalisés dans le cadre de mon parcours en Master Statistique, Informatique et Intelligence Artificielle. Il met en valeur mes compétences en analyse de données, modélisation statistique, data visualisation et développement d'applications interactives.
 
 Contenu du dépôt :
+
 📊 Visualisations interactives avec R Shiny, Bokeh, Plotly, etc.
 
 🤖 Modèles de machine learning (supervisé et non supervisé) en R et Python
